@@ -64,10 +64,14 @@ body {
 }
 
 .hero-section {
-    height: 92vh;
+    height: 100vh;
     background: url(../images/fondoeditado.png)no-repeat center fixed;
     background-size: cover;
     font-family: 'Racing Sans One', cursive;
+}
+
+.about {
+    height: auto;
 }
 
 .col-lg-8 img {
