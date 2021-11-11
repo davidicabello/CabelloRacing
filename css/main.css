@@ -65,7 +65,7 @@ body {
 
 .hero-section {
     height: 900px;
-    background: url(../images/fondoeditado.png)no-repeat center center fixed;
+    background: url(../images/fondoeditado.png)center fixed;
     background-size: cover;
     font-family: 'Racing Sans One', cursive;
 }
@@ -80,12 +80,12 @@ body {
 
 .servicios {
     height: auto;
-    background: url(../images/asfaltonegro.jpg)no-repeat center fixed;
+    background: url(../images/asfaltonegro.jpg)center fixed;
     background-size: cover;
 }
 
 .gallery {
-    background: url(../images/teahub.io-wrench-wallpaper-3377967.png)no-repeat center fixed;
+    background: url(../images/teahub.io-wrench-wallpaper-3377967.png)center fixed;
     background-size: cover;
 }
 
