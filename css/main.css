@@ -65,7 +65,7 @@ body {
 
 .hero-section {
     height: 900px;
-    background: url(../images/fondoeditado.png)no-repeat center fixed;
+    background: url(../images/fondoeditado.png)no-repeat center center fixed;
     background-size: cover;
     font-family: 'Racing Sans One', cursive;
 }
