@@ -72,7 +72,7 @@ body {
 
 .servicios {
     height: auto;
-    background: url(../images/asfaltonegro.jpg)no-repeat center fixed;
+    background: url(../images/asfaltonegro.jpg)no-repeat center;
     background-size: cover;
 }
 
