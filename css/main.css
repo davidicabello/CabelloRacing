@@ -26,6 +26,10 @@ body {
     margin-top: 35px;
 }
 
+.margins-small {
+    margin-bottom: 20px;
+}
+
 .espacios {
     padding-top: 80px;
     padding-bottom: 80px;
@@ -72,13 +76,22 @@ body {
 
 .servicios {
     height: auto;
-    background: url(../images/asfaltonegro.jpg)no-repeat center;
+    background: url(../images/asfaltonegro.jpg)no-repeat center fixed;
     background-size: cover;
 }
 
 .gallery {
     background: url(../images/teahub.io-wrench-wallpaper-3377967.png)no-repeat center fixed;
     background-size: cover;
+}
+
+.frases i {
+    font-size: 100px;
+    color: #ec7c26;
+}
+
+.frases i:hover {
+    color: #fcda30;
 }
 
 @media (max-width:991px) {
