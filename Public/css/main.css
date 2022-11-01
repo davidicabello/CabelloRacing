@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Racing+Sans+One&display=swap');
+
 * {
     box-sizing: border-box;
 }
@@ -120,6 +121,10 @@ body {
 
 .my-float {
     margin-top: 16px;
+}
+
+.fav-logo a:link {
+    font-size: 100px
 }
 
 @media (max-width:991px) {
